@@ -8,6 +8,7 @@
 - 🌱 I’m a student from Hungary
 - 🧠 I'm a backend rat
 - 🎮 Fav games: Valorant, Minecraft, ETS2 
+- 🔥 Discord.js && Bun TypeScript enjoyer 
   
 <!--- [![Discord Presence](https://lanyard.cnrad.dev/api/488757123107389450?bg=3a1f75)](https://discord.com/users/488757123107389450)-->
 <hr>
