@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there 👋
 <a href="https://discord.com/users/721746046543331449">
     <img src="https://lanyard.cnrad.dev/api/488757123107389450?bg=3a1f75" align="right">
 </a>
 
 - 🌱 I’m a student from Hungary
 - 🧠 I'm a backend rat
-- 🎮 Fav games: Valorant, Minecraft, ETS2, 
+- 🎮 Fav games: Valorant, Minecraft, ETS2 
   
 <!--- [![Discord Presence](https://lanyard.cnrad.dev/api/488757123107389450?bg=3a1f75)](https://discord.com/users/488757123107389450)-->
+<hr>
 
+### My stack 💻
 
-## My stack 💻
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
