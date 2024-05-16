@@ -1,8 +1,8 @@
+### Hi there 👋
+
 <a href="https://discord.com/users/721746046543331449">
     <img src="https://lanyard.cnrad.dev/api/488757123107389450?bg=3a1f75" align="right">
 </a>
-
-### Hi there 👋
 
 - 🌱 I’m a student from Hungary
 - 🐀 I'm a backend rat
